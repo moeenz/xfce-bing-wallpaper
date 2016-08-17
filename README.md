@@ -18,4 +18,4 @@ You may not succeed in changing your wallpaper so if image was download but your
 ```shell
     xfconf-query -c xfce4-desktop -p /backdrop -m
 ```
-Then try to change your wallpaper through normal desktop settings and see the result on terminal. Substitute the command in line 49 with what you see on terminal for proper result.
+Then try to change your wallpaper through normal desktop settings and see the result on terminal. Substitute the command in line 46 with what you see on terminal for proper result.
